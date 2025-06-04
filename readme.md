@@ -1,1 +1,5 @@
-![InstaPlan Icon](static/icons/icon.png)
+# InstaPlan
+
+<img src="static/icons/icon.png" alt="InstaPlan Icon" width="150"/>
+
+Manage your Calender using Whatsapp via Natural Language.
