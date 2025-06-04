@@ -1,0 +1,1 @@
+![InstaPlan Icon](static/icons/icon.png)
